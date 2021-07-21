@@ -1,0 +1,8 @@
+replace all the time.clock to time.perf_counter, and it should be fine
+AttributeError: module 'time' has no attribute 'clock'
+
+pip install wheel
+pip install flask
+pip install Flask
+pip install flask_COSR
+pip install COSR
