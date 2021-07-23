@@ -1,0 +1,21 @@
+categories:
+- plumbing
+conversations:
+- - The sink is draining
+  - Try to close the main water source.
+- - The water pipe is broken
+  - Try to close the main water source.
+- - drain is clogged
+  - Try dumping a cup of baking soda into the drain.
+- - toilet is clogged
+  - Try dumping a cup of baking soda into the toilet.
+- - there is a shortage in water supply
+  - Please wait a few hours and it will come back again.
+- - الماسورة اتكسرت
+  - اغلق المحبس الرئيسي جيداً.
+- - الحنفية بتنقط
+  - اغلق المحبس الرئيسي جيداً.
+- - المياة قاطعة
+  - انتظر قليلاً و المياه ستعود قريباً.  
+- - الحنفية مسدودة
+  - الرجاء وضع صودا الخبز في الماسورة.

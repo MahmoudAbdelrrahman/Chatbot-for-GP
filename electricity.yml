@@ -1,0 +1,20 @@
+categories:
+- electricity
+conversations:
+- - I have a problem with the electricity
+  - Can you please specify your problem?
+  - Can you provide further details please?
+- - there is an electrical fire
+  - Try to turn plug out any electrical switches, find sand, any blanket or a fire distinguisher to put off the fire.
+- - there is a fire
+  - Try to turn plug out any electrical switches, find sand, any blanket or a fire distinguisher to put off the fire.
+- - Voltage is not stable
+  - Switch off all electrial devices and appliances and plug out any electrical switches.
+- - electricity is cut off
+  - please check that all switches are connected.
+- - all switches are connected
+  - please wait a few hours as there may be a shortage in electricity in the district.
+- - الكهربا قاطعة
+  - انتظر قليلاً و ستعود الكهرباء قريباً.
+- - في حريقة من الكهربا
+  - افصل الكهرباء و قم باطفاء الحريق عن طريق استخدام طفاية الحريق او الرمال او اي غطاء.
